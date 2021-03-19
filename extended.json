@@ -1,0 +1,19 @@
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "Perth, Australia",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "https://t.me/denadapool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "d28e4ae3848720195f09becd15e6985b54cbf3b62e52bf53c5af8501"
+    }
+}

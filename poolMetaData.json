@@ -2,5 +2,6 @@
 "name": "DenAdaPool",
 "description": "Doing our part for decentralisation!",
 "ticker": "DENP",
-"homepage": ""
+"homepage": "https://denadapool.io",
+"extended": "https://raw.githubusercontent.com/DenDev-247/denpool/main/extended.json"
 }

@@ -1,340 +1,278 @@
-[
-    {
-        "ticker": "1LOVE",
-        "name": "Lovelacepool",
-        "pool_id": "4aea697c45e39e37e5d842ec8cf6c01a714e88db33a1ba0565ab59af",
-        "pool_id_bech32": "pool1ft4xjlz9uw0r0ewcgtkgeakqrfc5azxmxwsm5pt94dv67mw4rgd",
-        "url": "https://lovelacepool.com"
-    },
-    {
-        "ticker": "21ADA",
-        "name": "21ADA",
-        "pool_id": "f3efb842c77895dde51e95e54d9c309da599631ef31216bcfea11083",
-        "pool_id_bech32": "pool170hmssk80z2ameg7jhj5m8psnkjejcc77vfpd0875yggxhhntd0",
-        "url": "https://www.21ada.ca"
-    },
-    {
-        "ticker": "A4G",
-        "name": "ADA4Good",
-        "pool_id": "cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",
-        "pool_id_bech32": "pool1ewrm7y47s9hv6hxku9n5gfnsuspymp0qqpwgvgm9rvm37cek2h6",
-        "url": "https://www.ada4good.com"
-    },
-    {
-        "ticker": "AIR"
-    },
-    {
-        "ticker": "ALoop",
-        "name": "AdaLoop",
-        "pool_id": "297b5acd8b90df8a1bfd98aa1a61f323b87fead4b8a2b55f2fb83ce6",
-        "pool_id_bech32": "pool199a44nvtjr0c5xlanz4p5c0nywu8l6k5hz3t2he0hq7wvljnsrt",
-        "url": "https://adaloop.org"
-    },
-    {
-        "ticker": "ADAOZ",
-        "name": "ADA Australia",
-        "pool_id": "6658713e2cbfa4e347691a0435953f5acbe9f03d330e94caa3a0cfb4",
-        "pool_id_bech32": "pool1vev8z03vh7jwx3mfrgzrt9fltt97nupaxv8ffj4r5r8mgwts5ze",
-        "url": "https://cardanode.com.au"
-    },
-    {
-        "ticker": "AZUL",
-        "name": "AZUL - STAKE FOR FUTURE Pool",
-        "pool_id": "19c56be8538786b0b1ddaeb4049faf6a00df0ca2df15e05b0472a866",
-        "pool_id_bech32": "pool1r8zkh6zns7rtpvwa466qf8a0dgqd7r9zmu27qkcyw25xv46y97s",
-        "url": "https://stakeforfuture.org/"
-    },
-    {
-        "ticker": "AZUR",
-        "name": "AzureADA",
-        "pool_id": "79c4d4fe108f480fee98f307adac12571df2959651f833b595141cd1",
-        "pool_id_bech32": "pool108zdflss3ayqlm5c7vr6mtqj2uwl99vk28ur8dv4zswdzt6yauc",
-        "url": "https://azureada.com"
-    },
-    {
-        "ticker": "BFADA",
-        "name": "BonafideADA",
-        "pool_id": "4f345190f6280c907325bcd11f9b00f222f092c889f6bedfb739abb1",
-        "pool_id_bech32": "pool1fu69ry8k9qxfque9hng3lxcq7g30pykg38mtahah8x4mzpgls3k",
-        "url": "https://bonafideada.com/"
-    },
-    {
-        "ticker": "BREAK",
-        "name": "BreakingADA",
-        "pool_id": "c0d70a23601c6a880e7a730774c0a4005e49f0eb52ea38d1e609df0d",
-        "pool_id_bech32": "pool1crts5gmqr34gsrn6wvrhfs9yqp0ynu8t2t4r350xp80s6pc56ue",
-        "url": "https://twitter.com/BreakingADA"
-    },
-    {
-        "ticker": "ADI",
-        "name": "Cardanesia",
-        "pool_id": "0a423fa44f23b13cba59474427d11746136672af66b2d80b4499dd1d",
-        "pool_id_bech32": "pool1pfprlfz0ywcnewjegazz05ghgcfkvu40v6edsz6yn8w362sdjr8",
-        "url": "https://cardanesia.com/"
-    },
-    {
-        "ticker": "CRFA",
-        "name": "Cardano Fans",
-        "pool_id": "6c518b4861bb88b1395ceb116342cecbcfb8736282655f9a61c4c368",
-        "pool_id_bech32": "pool1d3gckjrphwytzw2uavgkxskwe08msumzsfj4lxnpcnpks3zjml3",
-        "url": "https://cardano.fans"
-    },
-    {
-        "ticker": "CHAMP",
-        "name": "champADA",
-        "pool_id": "96d4a78a1459a66cea6b396fd92f7abba092bd59535d21ad3c0463c7",
-        "pool_id_bech32": "pool1jm220zs5txnxe6nt89hajtm6hwsf902e2dwjrtfuq33uw835g65",
-        "url": "https://champada.io"
-    },
-    {
-        "ticker": "COINZ",
-        "name": "ADA Coinz",
-        "pool_id": "91991d9238f3f270a46fc237acc3abcdf2456ff163c1639951d75d15",
-        "pool_id_bech32": "pool1jxv3my3c70e8pfr0cgm6esatehey2ml3v0qk8x236aw32eu0fcy",
-        "url": "https://adacoinz.com"
-    },
-    {
-        "ticker": "DEN",
-        "name": "DenAdaPool",
-        "pool_id": "d28e4ae3848720195f09becd15e6985b54cbf3b62e52bf53c5af8501",
-        "pool_id_bech32": "pool1628y4cuysuspjhcfhmx3te5ctd2vhuak9eft757947zsz5rtx8h",
-        "url": "https://denadapool.io/"
-    },
-    {
-        "ticker": "EU01",
-        "name": "StakePool247.eu",
-        "pool_id": "76e80e1b3f622c7051f222453497b0667e12892f5d94ee565d17dc52",
-        "pool_id_bech32": "pool1wm5quxelvgk8q50jyfznf9asvelp9zf0tk2wu4jazlw9yj4uctw",
-        "url": "https://www.stakepool247.eu/"
-    },
-    {
-        "ticker": "FASO",
-        "name": "FasoPool",
-        "pool_id": "70ab9e73071c50927631a218137d53e765665a578b744feeae3c5d81",
-        "pool_id_bech32": "pool1wz4euuc8r3gfya335gvpxl2nuajkvkjh3d6ylm4w83wcz7lqxc6",
-        "url": "https://fasostakepool.com/"
-    },
-    {
-        "ticker": "FEEL",
-        "name": "FEEL",
-        "pool_id": "455778840915ea2ec843bfee7269c1e0963b08ce5d1cdf029e39cb59",
-        "pool_id_bech32": "pool1g4th3pqfzh4zajzrhlh8y6wpuztrkzxwt5wd7q578894j06gwfc",
-        "url": "https://www.feelstakepool.com"
-    },
-    {
-        "ticker": "FUNGI",
-        "name": "FUNGI Stake Pool",
-        "pool_id": "9dcb2a0398835a6b0a71dd5bbaa0d6bb961276aedd72f2655c7879d0",
-        "pool_id_bech32": "pool1nh9j5qucsddxkzn3m4dm4gxkhwtpya4wm4e0ye2u0puaqgkcm65",
-        "url": "https://fungi-pool.com"
-    },
-    {
-        "ticker": "GAIA",
-        "name": "GAIA Stake Pool",
-        "pool_id": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc",
-        "pool_id_bech32": "pool17e4rdh59t4fmn4g3p02xvs853katrjzge830tsmd3sfdc645yvt",
-        "url": "https://www.gaiastakepool.com"
-    },
-    {
-        "ticker": "VOLCY",
-        "name": "VOLCY ADA STAKEPOOL",
-        "pool_id": "e3f8a83cefed03fe4ebdc4f50f3cdd880a7c2fd0b2ce7ff9da9cdce2",
-        "pool_id_bech32": "pool1u0u2s080a5plun4acn6s70xa3q98ct7skt88l7w6nnwwyl9ecym",
-        "url": "https://www.volcyada.com"
-    },
-    {
-        "ticker": "GROW",
-        "name": "GROW TEAM",
-        "pool_id": "95954fa839905a201d8d97cc31be8bbd4ac2ad0df1d201accce3a23e",
-        "pool_id_bech32": "pool1jk25l2pejpdzq8vdjlxrr05th49v9tgd78fqrtxvuw3rumpfc6t",
-        "url": "https://growpools.io"
-    },
-    {
-        "ticker": "HRMS",
-        "name": "Hermes Stakepool Germany #1",
-        "pool_id": "d248ded3c18e0e80d07a46f00a2d808075b989ccb1a0e40a76e5cee1",
-        "pool_id_bech32": "pool16fyda57p3c8gp5r6gmcq5tvqsp6mnzwvkxswgznkuh8wztrp6vv",
-        "url": "https://www.hermes-stakepool.com"
-    },
-    {
-        "ticker": "HRMS2",
-        "name": "Hermes Stakepool Germany #2",
-        "pool_id": "be1078775557de6c9116130289c6099520a267820ba1eebd040909e4",
-        "pool_id_bech32": "pool1hcg8sa642l0xeygkzvpgn3sfj5s2yeuzpws7a0gypyy7grrjcje",
-        "url": "https://www.hermes-stakepool.com"
-    },
-    {
-        "ticker": "IAMX",
-        "name": "IAMX - OWN YOUR IDENTITY Pool",
-        "pool_id": "0c7173112ca61362d2ee05040973f2184968f2d4e769df86671c916b",
-        "pool_id_bech32": "pool1p3chxyfv5cfk95hwq5zqjuljrpyk3uk5ua5alpn8rjgkkvvy8ne",
-        "url": "https://iamx.id/"
-    },
-    {
-        "ticker": "IAMX1",
-        "name": "IAMX - OWN YOUR IDENTITY Pool",
-        "pool_id": "6ac3bb93f42ccd80ac37b6ba7fd62c452af1ea538406c726a8c7fcdc",
-        "pool_id_bech32": "pool1dtpmhyl59nxcptphk6a8l43vg540r6jnssrvwf4gcl7dc6uxzyy",
-        "url": "https://iamx.id/"
-    },
-    {
-        "ticker": "IAMX2",
-        "name": "IAMX - OWN YOUR IDENTITY Pool",
-        "pool_id": "31da45799477b63af0bef7cf60073c7f02d5682b84792304c50a361b",
-        "pool_id_bech32": "pool1x8dy27v5w7mr4u977l8kqpeu0upd26pts3ujxpx9pgmpka9ztr6",
-        "url": "https://iamx.id/"
-    },
-    {
-        "ticker": "IAMX3",
-        "name": "IAMX - OWN YOUR IDENTITY Pool",
-        "pool_id": "45e0ce168917ce9a23fe6e3cc819cd1893d8c0aefe52095e954c5ba1",
-        "pool_id_bech32": "pool1ghsvu95fzl8f5gl7dc7vsxwdrzfa3s9wlefqjh54f3d6zcrc0nf",
-        "url": "https://iamx.id/"
-    },
-    {
-        "ticker": "KAWAN",
-        "name": "Kawanua",
-        "pool_id": "40c5a505a4276c94e49b848c1b0aa62c4ea244574f4e2e28ebb29210",
-        "pool_id_bech32": "pool1grz62pdyyakffeymsjxpkz4x9382y3zhfa8zu28tk2fpqxm6p5l",
-        "url": "https://kawancardano.com/"
-    },
-    {
-        "ticker": "KOALA",
-        "name": "Koala Pool stake, earn, \u0026amp; save Koalas コアラを救え",
-        "pool_id": "9138b6f09e8e69c29fdee4e11b147b7ad351aab23fc73a9976907f10",
-        "pool_id_bech32": "pool1jyutduy73e5u9877uns3k9rm0tf4r24j8lrn4xtkjpl3q5sn5mw",
-        "url": "https://koalapool.org"
-    },
-    {
-        "ticker": "LIV"
-    },
-    {
-        "ticker": "LSS",
-        "name": "LongShortSignal",
-        "pool_id": "4d470d31f80c01d797996b43abdfe7339ae5b408fb31cc655a80ccd7",
-        "pool_id_bech32": "pool1f4rs6v0cpsqa09ueddp6hhl8xwdwtdqglvcuce26srxdwmzxl6v",
-        "url": "https://longshortsignal.com/cardanopool"
-    },
-    {
-        "ticker": "LOOPS",
-        "name": "Crypto Loops",
-        "pool_id": "c9bc139d73045ba6c5b002ff88ea2a5854b3e783c468adb9250df917",
-        "pool_id_bech32": "pool1ex7p88tnq3d6d3dsqtlc3632tp2t8eurc352mwf9phu3w8n3vz7",
-        "url": "https://crypto-loops.com/loops/"
-    },
-    {
-        "ticker": "MKNY"
-    },
-    {
-        "ticker": "OZZY",
-        "name": "Ozzy pool",
-        "pool_id": "0e3f803915a37af7b6a121409192363e9de658524276c20c26f511ee",
-        "pool_id_bech32": "pool1pclcqwg45da00d4py9qfry3k86w7vkzjgfmvyrpx75g7u8t9nwf",
-        "url": "http://ozzy-pool.com/"
-    },
-    {
-        "ticker": "STAKE",
-        "name": " PLANETSTAKE 3",
-        "pool_id": "266601f53114e6ff036c5b4ee42a2926e037b21bcf864557d41d4ecb",
-        "pool_id_bech32": "pool1yenqraf3znn07qmvtd8wg23fymsr0vsme7ry2475r48vk6ss0z2",
-        "url": "https://planetstake.com"
-    },
-    {
-        "ticker": "PSYA",
-        "name": "PsyADA",
-        "pool_id": "111646b0848804b1c0ff51888432c9c4b0b0aa3b55f11ecbd0e36624",
-        "pool_id_bech32": "pool1zytydvyy3qztrs8l2xyggvkfcjctp23m2hc3aj7sudnzgny79cg",
-        "url": "https://psyada.com"
-    },
-    {
-        "ticker": "QXT",
-        "name": "Quixote Dream Pool",
-        "pool_id": "351a90a0253fb3595ccc460438b9947cd8a0b9a7f457f3478bbb31d8",
-        "pool_id_bech32": "pool1x5dfpgp987e4jhxvgczr3wv50nv2pwd873tlx3uthvcasm422q6",
-        "url": "https://quixote.systems"
-    },
-    {
-        "ticker": "RADAR",
-        "name": "RADAR Stake Pool",
-        "pool_id": "fd2a060be85493dfdb03eecb6343a76636823d223d680a202b900f65",
-        "pool_id_bech32": "pool1l54qvzlg2jfalkcram9kxsa8vcmgy0fz845q5gptjq8k20kzg2r",
-        "url": "https://radarstakepool.org"
-    },
-    {
-        "ticker": "RISE",
-        "name": "RISE",
-        "pool_id": "1e4f8dc9672d16131da6533287e32ea100b34d67543ff7c7358c7b5e",
-        "pool_id_bech32": "pool1re8cmjt895tpx8dx2veg0cew5yqtxnt82sll03e433a4ugnh9w7",
-        "url": "https://risecardano.com"
-    },
-    {
-        "ticker": "SANTO",
-        "name": "Santo",
-        "pool_id": "9837e1eca79504f57acd4e12f2db93ee04a76bca308cae61a6ee205a",
-        "pool_id_bech32": "pool1nqm7rm98j5z027kdfcf09kunacz2w672xzx2ucdxacs954r5dul",
-        "url": "https://santoelectronics.com/santonode"
-    },
-    {
-        "ticker": "SAPIO",
-        "name": "SAPIO pool",
-        "pool_id": "c3cd2527a5f0b82a86ff69fdd5a3440dc51bcb957953ba19137738c0",
-        "pool_id_bech32": "pool1c0xj2fa97zuz4phld87atg6yphz3hju409fm5xgnwuuvqww25qj",
-        "url": "https://sapiopool.com"
-    },
-    {
-        "ticker": "SPEC",
-        "name": "Spectrum Pool",
-        "pool_id": "079c374160b0ae34a5a20b8e95a5b5c8766239b2984f13d7ab962791",
-        "pool_id_bech32": "pool1q7wrwstqkzhrffdzpw8ftfd4epmxywdjnp8384atjcnezchv242",
-        "url": "https://spectrum-pool.kind.software"
-    },
-    {
-        "ticker": "SPRO",
-        "name": "Sprout Pool",
-        "pool_id": "a50d1fd3cda9b9452cb149474a601d24332a870a6fe32b60add3a98b",
-        "pool_id_bech32": "pool155x3l57d4xu52t93f9r55cqaysej4pc2dl3jkc9d6w5ckyu6u7n",
-        "url": "https://sproutpool.ca"
-    },
-    {
-        "ticker": "ST4NA",
-        "name": "Stake for Nature",
-        "pool_id": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
-        "pool_id_bech32": "pool12ur7gf2psr2grf83u6gturpv2je6vxq9rkg8malygdxqkwnqc5h",
-        "url": "https://stakefornature.com"
-    },
-    {
-        "ticker": "SWAG",
-        "name": "SWAG",
-        "pool_id": "7e3a1ed8f2085923debacc6866aefaba941edd638ff0886061ebf521",
-        "pool_id_bech32": "pool10capak8jppvj8h46e35xdth6h22pahtr3lcgscrpa06jzv0xn8w",
-        "url": "https://www.ada-swag.com"
-    },
-    {
-        "ticker": "PRIDE",
-        "name": "Stake with Pride",
-        "pool_id": "93ca5c2f1eb63054f7c768a807408a43e65d7c68fe56e330db20af51",
-        "pool_id_bech32": "pool1j099ctc7kcc9fa78dz5qwsy2g0n96lrgletwxvxmyzh4zd7ck0j",
-        "url": "https://twitter.com/StakeWithPride"
-    },
-    {
-        "ticker": "TTS17",
-        "name": "Time To Stake",
-        "pool_id": "5790d62ab1ba703e861fe800f9cefaaf1485c3ca42c6ba9ce74690a1",
-        "pool_id_bech32": "pool127gdv243hfcrapslaqq0nnh64u2gts72gtrt4888g6g2z0zsu64",
-        "url": "https://tts17.com"
-    },
-    {
-        "ticker": "VITAL",
-        "name": "Responsible Staking",
-        "pool_id": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e",
-        "pool_id_bech32": "pool1qadgwr92pgx0yz3u9n63f0s9ugryaud6wxers850z6sfu06y3rg",
-        "url": "https://responsible-staking.at"
-    },
-    {
-        "ticker": "WISH",
-        "name": "Wish Pool",
-        "pool_id": "4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852",
-        "pool_id_bech32": "pool1fk7lk6x7j6jkxuvl0het8nmunra4g7370mw29f286dv9ylegutq",
-        "url": "http://blockchainlens.org"
-    }
-]
+{
+	"adapools": {
+		"about": {
+			"name": "ARDANA Stake Pool Alliance",
+			"description_short": "Stakepool partners supporting the launch of the Ardana DEX",
+			"description_long": "",
+			"website": "",
+			"url_png_icon_64x64": "",
+			"url_png_logo": "",
+			"social": {
+				"twitter_handle": "",
+				"telegram_handle": "",
+				"facebook_handle": "",
+				"youtube_handle": "",
+				"twitch_handle": "",
+				"discord_handle": "",
+				"github_handle": ""
+			},
+			"types": {
+				"charity": false,
+				"business": true,
+				"beneficial": true
+			}
+		},
+		"members": {
+            "0":{
+                "pool_id": "4aea697c45e39e37e5d842ec8cf6c01a714e88db33a1ba0565ab59af",
+                "member_since": "2021-09-01",
+                "name": "1LOVE"
+            },
+            "1":{
+                "pool_id": "f3efb842c77895dde51e95e54d9c309da599631ef31216bcfea11083",
+                "member_since": "2021-09-01",
+                "name": "21ADA"
+            },
+            "2":{
+                "pool_id": "cb87bf12be816ecd5cd6e167442670e4024d85e0005c8623651b371f",
+                "member_since": "2021-09-01",
+                "name": "A4G"
+            },
+            "3":{
+                "pool_id": "80cb48c2953a78d25f69dbcea305fbcce0c520c25d401cd75a259cf1",
+                "member_since": "2021-09-01",
+                "name": "AIR"
+            },
+            "4":{
+                "pool_id": "297b5acd8b90df8a1bfd98aa1a61f323b87fead4b8a2b55f2fb83ce6",
+                "member_since": "2021-09-01",
+                "name": "ALoop"
+            },
+            "5":{
+                "pool_id": "6658713e2cbfa4e347691a0435953f5acbe9f03d330e94caa3a0cfb4",
+                "member_since": "2021-09-01",
+                "name": "ADAOZ"
+            },
+            "6":{
+                "pool_id": "19c56be8538786b0b1ddaeb4049faf6a00df0ca2df15e05b0472a866",
+                "member_since": "2021-09-01",
+                "name": "AZUL"
+            },
+            "7":{
+                "pool_id": "79c4d4fe108f480fee98f307adac12571df2959651f833b595141cd1",
+                "member_since": "2021-09-01",
+                "name": "AZUR"
+            },
+            "8":{
+                "pool_id": "4f345190f6280c907325bcd11f9b00f222f092c889f6bedfb739abb1",
+                "member_since": "2021-09-01",
+                "name": "BFADA"
+            },
+            "9":{
+                "pool_id": "c0d70a23601c6a880e7a730774c0a4005e49f0eb52ea38d1e609df0d",
+                "member_since": "2021-09-01",
+                "name": "BREAK"
+            },
+            "10":{
+                "pool_id": "0a423fa44f23b13cba59474427d11746136672af66b2d80b4499dd1d",
+                "member_since": "2021-09-01",
+                "name": "ADI"
+            },
+            "11":{
+                "pool_id": "6c518b4861bb88b1395ceb116342cecbcfb8736282655f9a61c4c368",
+                "member_since": "2021-09-01",
+                "name": "CRFA"
+            },
+            "12":{
+                "pool_id": "96d4a78a1459a66cea6b396fd92f7abba092bd59535d21ad3c0463c7",
+                "member_since": "2021-09-01",
+                "name": "CHAMP"
+            },
+            "13":{
+                "pool_id": "91991d9238f3f270a46fc237acc3abcdf2456ff163c1639951d75d15",
+                "member_since": "2021-09-01",
+                "name": "COINZ"
+            },
+            "14":{
+                "pool_id": "d28e4ae3848720195f09becd15e6985b54cbf3b62e52bf53c5af8501",
+                "member_since": "2021-09-01",
+                "name": "DEN"
+            },
+            "15":{
+                "pool_id": "76e80e1b3f622c7051f222453497b0667e12892f5d94ee565d17dc52",
+                "member_since": "2021-09-01",
+                "name": "EU01"
+            },
+            "16":{
+                "pool_id": "70ab9e73071c50927631a218137d53e765665a578b744feeae3c5d81",
+                "member_since": "2021-09-01",
+                "name": "FASO"
+            },
+            "17":{
+                "pool_id": "455778840915ea2ec843bfee7269c1e0963b08ce5d1cdf029e39cb59",
+                "member_since": "2021-09-01",
+                "name": "FEEL"
+            },
+            "18":{
+                "pool_id": "9dcb2a0398835a6b0a71dd5bbaa0d6bb961276aedd72f2655c7879d0",
+                "member_since": "2021-09-01",
+                "name": "FUNGI"
+            },
+            "19":{
+                "pool_id": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc",
+                "member_since": "2021-09-01",
+                "name": "GAIA"
+            },
+            "20":{
+                "pool_id": "95954fa839905a201d8d97cc31be8bbd4ac2ad0df1d201accce3a23e",
+                "member_since": "2021-09-01",
+                "name": "GROW"
+            },
+            "21":{
+                "pool_id": "d248ded3c18e0e80d07a46f00a2d808075b989ccb1a0e40a76e5cee1",
+                "member_since": "2021-09-01",
+                "name": "HRMS"
+            },
+            "22":{
+                "pool_id": "be1078775557de6c9116130289c6099520a267820ba1eebd040909e4",
+                "member_since": "2021-09-01",
+                "name": "HRMS2"
+            },
+            "23":{
+                "pool_id": "0c7173112ca61362d2ee05040973f2184968f2d4e769df86671c916b",
+                "member_since": "2021-09-01",
+                "name": "IAMX"
+            },
+            "24":{
+                "pool_id": "6ac3bb93f42ccd80ac37b6ba7fd62c452af1ea538406c726a8c7fcdc",
+                "member_since": "2021-09-01",
+                "name": "IAMX1"
+            },
+            "25":{
+                "pool_id": "31da45799477b63af0bef7cf60073c7f02d5682b84792304c50a361b",
+                "member_since": "2021-09-01",
+                "name": "IAMX2"
+            },
+            "26":{
+                "pool_id": "45e0ce168917ce9a23fe6e3cc819cd1893d8c0aefe52095e954c5ba1",
+                "member_since": "2021-09-01",
+                "name": "IAMX3"
+            },
+            "27":{
+                "pool_id": "40c5a505a4276c94e49b848c1b0aa62c4ea244574f4e2e28ebb29210",
+                "member_since": "2021-09-01",
+                "name": "KAWAN"
+            },
+            "28":{
+                "pool_id": "9138b6f09e8e69c29fdee4e11b147b7ad351aab23fc73a9976907f10",
+                "member_since": "2021-09-01",
+                "name": "KOALA"
+            },
+            "29":{
+                "pool_id": "6f9ecffc4bc41068db87bd193e5842577df08a464cb7c001865c8b60",
+                "member_since": "2021-09-01",
+                "name": "LIV"
+            },
+            "30":{
+                "pool_id": "4d470d31f80c01d797996b43abdfe7339ae5b408fb31cc655a80ccd7",
+                "member_since": "2021-09-01",
+                "name": "LSS"
+            },
+            "31":{
+                "pool_id": "c9bc139d73045ba6c5b002ff88ea2a5854b3e783c468adb9250df917",
+                "member_since": "2021-09-01",
+                "name": "LOOPS"
+            },
+            "32":{
+                "pool_id": "39fca98bb733eea4fa54384c39d072cd9733cfa70d7bb63ce651a470",
+                "member_since": "2021-09-01",
+                "name": "MKNY"
+            },
+            "33":{
+                "pool_id": "0e3f803915a37af7b6a121409192363e9de658524276c20c26f511ee",
+                "member_since": "2021-09-01",
+                "name": "OZZY"
+            },
+            "34":{
+                "pool_id": "266601f53114e6ff036c5b4ee42a2926e037b21bcf864557d41d4ecb",
+                "member_since": "2021-09-01",
+                "name": "STAKE"
+            },
+            "35":{
+                "pool_id": "111646b0848804b1c0ff51888432c9c4b0b0aa3b55f11ecbd0e36624",
+                "member_since": "2021-09-01",
+                "name": "PSYA"
+            },
+            "36":{
+                "pool_id": "351a90a0253fb3595ccc460438b9947cd8a0b9a7f457f3478bbb31d8",
+                "member_since": "2021-09-01",
+                "name": "QXT"
+            },
+            "37":{
+                "pool_id": "fd2a060be85493dfdb03eecb6343a76636823d223d680a202b900f65",
+                "member_since": "2021-09-01",
+                "name": "RADAR"
+            },
+            "38":{
+                "pool_id": "1e4f8dc9672d16131da6533287e32ea100b34d67543ff7c7358c7b5e",
+                "member_since": "2021-09-01",
+                "name": "RISE"
+            },
+            "39":{
+                "pool_id": "9837e1eca79504f57acd4e12f2db93ee04a76bca308cae61a6ee205a",
+                "member_since": "2021-09-01",
+                "name": "SANTO"
+            },
+            "40":{
+                "pool_id": "c3cd2527a5f0b82a86ff69fdd5a3440dc51bcb957953ba19137738c0",
+                "member_since": "2021-09-01",
+                "name": "SAPIO"
+            },
+            "41":{
+                "pool_id": "079c374160b0ae34a5a20b8e95a5b5c8766239b2984f13d7ab962791",
+                "member_since": "2021-09-01",
+                "name": "SPEC"
+            },
+            "42":{
+                "pool_id": "a50d1fd3cda9b9452cb149474a601d24332a870a6fe32b60add3a98b",
+                "member_since": "2021-09-01",
+                "name": "SPRO"
+            },
+            "43":{
+                "pool_id": "5707e4254180d481a4f1e690be0c2c54b3a618051d907df7e4434c0b",
+                "member_since": "2021-09-01",
+                "name": "ST4NA"
+            },
+            "44":{
+                "pool_id": "7e3a1ed8f2085923debacc6866aefaba941edd638ff0886061ebf521",
+                "member_since": "2021-09-01",
+                "name": "SWAG"
+            },
+            "45":{
+                "pool_id": "93ca5c2f1eb63054f7c768a807408a43e65d7c68fe56e330db20af51",
+                "member_since": "2021-09-01",
+                "name": "PRIDE"
+            },
+            "46":{
+                "pool_id": "5790d62ab1ba703e861fe800f9cefaaf1485c3ca42c6ba9ce74690a1",
+                "member_since": "2021-09-01",
+                "name": "TTS17"
+            },
+            "47":{
+                "pool_id": "075a870caa0a0cf20a3c2cf514be05e2064ef1ba71b2381e8f16a09e",
+                "member_since": "2021-09-01",
+                "name": "VITAL"
+            },
+            "48":{
+                "pool_id": "e3f8a83cefed03fe4ebdc4f50f3cdd880a7c2fd0b2ce7ff9da9cdce2",
+                "member_since": "2021-09-01",
+                "name": "VOLCY"
+            },
+            "49":{
+                "pool_id": "4dbdfb68de96a563719f7df2b3cf7c98fb547a3e7edca2a547d35852",
+                "member_since": "2021-09-01",
+                "name": "WISH"
+            }
+		}
+	}
+}

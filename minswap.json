@@ -1,0 +1,153 @@
+{
+  "adapools": {
+    "about": {
+      "name": "MINSWAP ISPO pools",
+      "description_short": "An alliance of stakepools supporting the launch of the MIWSWAP DEX",
+      "description_long": "",
+      "website": "",
+      "url_png_icon_64x64": "",
+      "url_png_logo": "",
+      "social": {
+        "twitter_handle": "",
+        "telegram_handle": "",
+        "facebook_handle": "",
+        "youtube_handle": "",
+        "twitch_handle": "",
+        "discord_handle": "",
+        "github_handle": ""
+      },
+      "types": {
+        "charity": false,
+        "business": true,
+        "beneficial": true
+      }
+    },
+    "members": {
+      "0": {
+        "pool_id": "d765dee553a7e041d525b1782a10eb0a5e52e96ed55ed173d8bb82a7",
+        "member_since": "2021-09-01",
+        "name": "BLADE"
+      },
+      "1": {
+        "pool_id": "38927599cc3ff6b081501e0ee1dc4f0cb8ba012b3de8b49a785bb05a",
+        "member_since": "2021-09-01",
+        "name": "MALU"
+      },
+      "2": {
+        "pool_id": "7ff2b54f311b6774e82cbf780c413e49e37b7501afd30f154918f7ca",
+        "member_since": "2021-09-01",
+        "name": "SWELL"
+      },
+      "3": {
+        "pool_id": "059b4217a24a8c67a363968ff1db13a17ed96e611362450c115b2415",
+        "member_since": "2021-09-01",
+        "name": "AMOON"
+      },
+      "4": {
+        "pool_id": "5201765589793cc9a04d8f378bc85125ec0ef7bf70beb84d01692c82",
+        "member_since": "2021-09-01",
+        "name": "ADAHS"
+      },
+      "5": {
+        "pool_id": "36e67ea3d2c2f01682c592c62b161e022154c719bd8d75e7e80f51ac",
+        "member_since": "2021-09-01",
+        "name": "BACK"
+      },
+      "6": {
+        "pool_id": "1dc1e011d522a077a20b2659bd0ee257e0d80f105f5dc998d4cfda7c",
+        "member_since": "2021-09-01",
+        "name": "GINGR"
+      },
+      "7": {
+        "pool_id": "b52214d5c29ab51c3cf98b87142d736a738d9535e0b3646178316be6",
+        "member_since": "2021-09-01",
+        "name": "VAULT"
+      },
+      "8": {
+        "pool_id": "4159a9cc7339bd2c495ad83239c2f1b97c8d2097eed6b120e08948c9",
+        "member_since": "2021-09-01",
+        "name": "DEGAS"
+      },
+      "9": {
+        "pool_id": "1be0613ee44270f56b5fbb71f667528e1d877d77d349dd7324d50869",
+        "member_since": "2021-09-01",
+        "name": "RSV"
+      },
+      "10": {
+        "pool_id": "b4122e4d02a6986e9604d5c74ab2974e80638f78e6bd1aa01b883e6e",
+        "member_since": "2021-09-01",
+        "name": "RSV"
+      },
+      "11": {
+        "pool_id": "eeb180952144eaf1aa5ff27a19322a5560e027ca1510bae10ec2e76a",
+        "member_since": "2021-09-01",
+        "name": "SOLIA"
+      },
+      "12": {
+        "pool_id": "ad7672d51077091866aff6fb43f9f3b75d427c961f6de8a135b07219",
+        "member_since": "2021-09-01",
+        "name": "ACI"
+      },
+      "13": {
+        "pool_id": "827c7aa359964ec100a9a3b943c73c1dd2056725b8897fd744c8adc0",
+        "member_since": "2021-09-01",
+        "name": "NOVA"
+      },
+      "14": {
+        "pool_id": "c2b8bff5160dd75149f2cae0955698550e8cf0d390025b26a9508a3e",
+        "member_since": "2021-09-01",
+        "name": "QCPOL"
+      },
+      "15": {
+        "pool_id": "eb6e1949ef2e1f2cdb9b041d2a4b86d4d837798ab3ddfe53cc4cafe4",
+        "member_since": "2021-09-01",
+        "name": "ADATA"
+      },
+      "16": {
+        "pool_id": "b2d1c479ce496d5be21cb68e95dae7342937c631488c47161d408f39",
+        "member_since": "2021-09-01",
+        "name": "TREE"
+      },
+      "17": {
+        "pool_id": "76e80e1b3f622c7051f222453497b0667e12892f5d94ee565d17dc52",
+        "member_since": "2021-09-01",
+        "name": "EU01"
+      },
+      "18": {
+        "pool_id": "38d44f2bbccd27b654e532e6937e3a60b900168082f5c1b4fe236974",
+        "member_since": "2021-09-01",
+        "name": "ALPCH"
+      },
+      "19": {
+        "pool_id": "91991d9238f3f270a46fc237acc3abcdf2456ff163c1639951d75d15",
+        "member_since": "2021-09-01",
+        "name": "COINZ"
+      },
+      "20": {
+        "pool_id": "29df06255834d24d6a149224cf114a371bea08b64e7537e224a561a5",
+        "member_since": "2021-09-01",
+        "name": "HYPE"
+      },
+      "21": {
+        "pool_id": "9dcb2a0398835a6b0a71dd5bbaa0d6bb961276aedd72f2655c7879d0",
+        "member_since": "2021-09-01",
+        "name": "FUNGI"
+      },
+      "22": {
+        "pool_id": "6e244c629b648b065ca4854ea7f8fb9838be54f688a5ee005074bdba",
+        "member_since": "2021-09-01",
+        "name": "JUST"
+      },
+      "23": {
+        "pool_id": "381ad61d5031c2a570c268d2f018bfb65c6eb7e32e535a58384f9a21",
+        "member_since": "2021-09-01",
+        "name": "ALFA"
+      },
+      "24": {
+        "pool_id": "96553a437b99271fdcaa30c279e432224342e88147741db73872f03c",
+        "member_since": "2021-09-01",
+        "name": "YOADA"
+      }
+    }
+  }
+}

@@ -2,8 +2,8 @@
 	"adapools": {
 		"about": {
 			"name": "ARDANA Stake Pool Alliance",
-			"description_short": "Stakepool partners supporting the launch of the Ardana DEX",
-			"description_long": "",
+			"description_short": "ASPA is an alliance between mission-driven stake pools and the Ardana decentralized stablecoin ecosystem.",
+			"description_long": "Ardana is the first decentralized stablecoin ecosystem on Cardano. Stake pool operators are absolutely critical to the Cardano ecosystem. They all make it possible for community members to support the network, generate yield on their ADA, and for important causes to receive support.  We at Ardana think they are exactly the kind of partners that we want to work with us in creating sustainable DeFi that finally delivers on the promise of equity and access from the farmer to the broker. That's why we are excited to announce the Ardana Stake Pool Alliance (ASPA)!",
 			"website": "",
 			"url_png_icon_64x64": "",
 			"url_png_logo": "",

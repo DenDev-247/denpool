@@ -68,16 +68,6 @@
                 "member_since": "2021-09-01",
                 "name": "AZUR1"
             },
-	    "9":{
-                "pool_id": "dd7330d29709deb4e8dff5b49d50b174c9c884678992cca4a68d96d7",
-                "member_since": "2021-09-01",
-                "name": "AZUR2"
-            },
-	     "10":{
-                "pool_id": "bdadf198bdc79d4f37c5dcd9ed0cdf402bdc2299c3ae4c87d688a6fe",
-                "member_since": "2021-09-01",
-                "name": "AZUR3"
-            },
             "11":{
                 "pool_id": "4f345190f6280c907325bcd11f9b00f222f092c889f6bedfb739abb1",
                 "member_since": "2021-09-01",
@@ -153,30 +143,10 @@
                 "member_since": "2021-09-01",
                 "name": "HRMS"
             },
-            "26":{
-                "pool_id": "be1078775557de6c9116130289c6099520a267820ba1eebd040909e4",
-                "member_since": "2021-09-01",
-                "name": "HRMS2"
-            },
             "27":{
                 "pool_id": "0c7173112ca61362d2ee05040973f2184968f2d4e769df86671c916b",
                 "member_since": "2021-09-01",
                 "name": "IAMX"
-            },
-            "28":{
-                "pool_id": "6ac3bb93f42ccd80ac37b6ba7fd62c452af1ea538406c726a8c7fcdc",
-                "member_since": "2021-09-01",
-                "name": "IAMX1"
-            },
-            "29":{
-                "pool_id": "31da45799477b63af0bef7cf60073c7f02d5682b84792304c50a361b",
-                "member_since": "2021-09-01",
-                "name": "IAMX2"
-            },
-            "30":{
-                "pool_id": "45e0ce168917ce9a23fe6e3cc819cd1893d8c0aefe52095e954c5ba1",
-                "member_since": "2021-09-01",
-                "name": "IAMX3"
             },
             "31":{
                 "pool_id": "40c5a505a4276c94e49b848c1b0aa62c4ea244574f4e2e28ebb29210",
@@ -222,16 +192,6 @@
                 "pool_id": "0019cb5ac91c786a809f4d87622a29d2c7f57f4697f8c8e8457f4de4",
                 "member_since": "2021-09-01",
                 "name": "STAKE1"
-            },
-            "40":{
-                "pool_id": "f8e96e3c3195c966a63d55b037ac83ec5e06086bfbd4d1eb84614e33",
-                "member_since": "2021-09-01",
-                "name": "STAKE2"
-            },
-	    "41":{
-                "pool_id": "266601f53114e6ff036c5b4ee42a2926e037b21bcf864557d41d4ecb",
-                "member_since": "2021-09-01",
-                "name": "STAKE3"
             },
             "42":{
                 "pool_id": "111646b0848804b1c0ff51888432c9c4b0b0aa3b55f11ecbd0e36624",
